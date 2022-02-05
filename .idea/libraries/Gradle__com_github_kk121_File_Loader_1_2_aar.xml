@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.kk121:File-Loader:1.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/93bcf8bca4dc4b6b56113c9ce34a8cdd/transformed/jetified-File-Loader-1.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/93bcf8bca4dc4b6b56113c9ce34a8cdd/transformed/jetified-File-Loader-1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/93bcf8bca4dc4b6b56113c9ce34a8cdd/transformed/jetified-File-Loader-1.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/93bcf8bca4dc4b6b56113c9ce34a8cdd/transformed/jetified-File-Loader-1.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kk121/File-Loader/1.2/191f25fb1fef80127cad495e30bd720707037ff7/File-Loader-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PDF Json</string>
+    <string name="title_home">Home</string>
+    <string name="roboto_black">sans-serif-black</string>
+    <string name="roboto_medium">sans-serif-medium</string>
+    <string name="pdf_view">PDF Views</string>
+    <string name="loading">Loading…</string>
+    <string name="share">Share</string>
+    <string name="food_menu2">Food Menu2</string>
+    <string name="_20">20</string>
+    <string name="minute">Minute</string>
+    <string name="_15">15</string>
+    <string name="nutrition">Nutrition</string>
+    <string name="_320_likes">320 Likes</string>
+    <string name="_14_comments">14 Comments</string>
+</resources>
